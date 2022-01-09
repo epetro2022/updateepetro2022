@@ -1,0 +1,767 @@
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\LowisChartApp.exe.config
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\LowisChartApp.exe
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\LowisChartApp.pdb
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.CodeParser.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Data.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.DataAccess.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Xpo.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Images.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Data.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.DataAccess.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Xpo.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.csprojResolveAssemblyReference.cache
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.BeamWellConditions.BeamWellCondition.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.frmMain.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmClassConfig.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmHistory.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatusMain.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellGroupConfiguration.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.detailLW.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.DiscreteStatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.EspGroup.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatusMain.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogConfig.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogStatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupDescreteConfig.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.Groupdescretestatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.LowisForm.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.Mostrecenttest.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.WellCurrentStatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.WellgroupStatus.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.Properties.Resources.resources
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.csproj.GenerateResource.Cache
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.exe.licenses
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.exe
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.pdb
+E:\Project Luar\Imron\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.TmpTest.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\bin\Debug\LowisChartApp.exe.config
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\bin\Debug\LowisChartApp.exe
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\bin\Debug\LowisChartApp.pdb
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.BeamWellConditions.BeamWellCondition.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.frmMain.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmClassConfig.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmHistory.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatusMain.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellGroupConfiguration.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.detailLW.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.DiscreteStatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.EspGroup.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatusMain.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogConfig.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogStatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupDescreteConfig.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.Groupdescretestatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.LowisForm.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.Mostrecenttest.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.TmpTest.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.WellCurrentStatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.lw.WellgroupStatus.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.Properties.Resources.resources
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.csproj.GenerateResource.Cache
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.exe.licenses
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.exe
+E:\Users\Rosyadix\Documents\Software Develop Project\ePetro_project\Development\LowisChartApp\LowisChartApp\obj\Debug\LowisChartApp.pdb
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe.config
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.pdb
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.CodeParser.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataAccess.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Xpo.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraBars.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Office.v17.2.Core.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Images.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataAccess.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Xpo.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraBars.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Office.v17.2.Core.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csprojAssemblyReference.cache
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.BeamWellConditions.BeamWellCondition.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.frmMain.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmClassConfig.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmHistory.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatusMain.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellGroupConfiguration.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.detailLW.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.DiscreteStatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.EspGroup.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatusMain.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogConfig.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogStatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupDescreteConfig.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Groupdescretestatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.LowisForm.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Mostrecenttest.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.TmpTest.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellCurrentStatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellgroupStatus.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.Properties.Resources.resources
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.GenerateResource.cache
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe.licenses
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CoreCompileInputs.cache
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CopyComplete
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe
+F:\OneDrive\Software Develop Project_ok\ePetro_project\Development\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.pdb
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe.config
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.pdb
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.ResolveComReference.cache
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.BeamWellConditions.BeamWellCondition.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.frmMain.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmClassConfig.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmHistory.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.beamwellcurrentstatus2.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatusMain.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellGroupConfiguration.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.browser.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.detailLW.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.DiscreteStatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.EspGroup.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatusMain.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogConfig.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogStatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupDescreteConfig.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Groupdescretestatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.LowisForm.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Mostrecenttest.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.rw.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.rw2.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen1.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen2.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen3.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen4.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.TmpTest.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.tvmenu.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WaitForm1.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellCurrentStatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellgroupStatus.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.Properties.Resources.resources
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.GenerateResource.cache
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe.licenses
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CoreCompileInputs.cache
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CopyComplete
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.pdb
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.AssemblyReference.cache
+C:\Users\imronros\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.FormBeamWell.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe.config
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.pdb
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.ResolveComReference.cache
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.BeamWellConditions.BeamWellCondition.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.frmMain.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmClassConfig.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmHistory.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.beamwellcurrentstatus2.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatusMain.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.FormBeamWell.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellGroupConfiguration.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.browser.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.detailLW.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.DiscreteStatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.EspGroup.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatusMain.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogConfig.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogStatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupDescreteConfig.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Groupdescretestatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.LowisForm.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Mostrecenttest.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.rw.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.rw2.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen1.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen2.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen3.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen4.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.TmpTest.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.tvmenu.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WaitForm1.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellCurrentStatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellgroupStatus.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.Properties.Resources.resources
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.GenerateResource.cache
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe.licenses
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CopyComplete
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe
+C:\Users\user1\Documents\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.pdb
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe.config
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.exe
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\bin\Debug\LowisChartApp.pdb
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\Interop.OPCAutomation.dll
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.ResolveComReference.cache
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.BeamWellConditions.BeamWellCondition.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.frmMain.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmClassConfig.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.AlarmHistory.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.beamwellcurrentstatus2.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellCurrentStatusMain.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.FormBeamWell.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.BeamWellGroupConfiguration.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.browser.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.detailLW.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.DiscreteStatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.EspGroup.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.ESPWellCurrentStatusMain.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogConfig.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupAnalogStatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.GroupDescreteConfig.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Groupdescretestatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.LowisForm.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.Mostrecenttest.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.rw.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.rw2.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen1.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen2.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen3.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.SplashScreen4.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.TmpTest.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.tvmenu.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WaitForm1.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellCurrentStatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.lw.WellgroupStatus.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.Properties.Resources.resources
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.GenerateResource.cache
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe.licenses
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CoreCompileInputs.cache
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.csproj.CopyComplete
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.exe
+G:\Project Luar\Imron\2022\LowisChartApp_\LowisChartApp_\LowisChartApp\obj\Debug\LowisChartApp.pdb
