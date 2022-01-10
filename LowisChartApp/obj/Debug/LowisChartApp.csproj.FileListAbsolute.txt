@@ -906,6 +906,7 @@ G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\bin\Debug\de\DevExpres
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.csproj.AssemblyReference.cache
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.csproj.SuggestedBindingRedirects.cache
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\Interop.OPCAutomation.dll
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.csproj.ResolveComReference.cache

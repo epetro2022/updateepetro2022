@@ -379,6 +379,12 @@
     <Compile Include="lw\WellgroupStatus.Designer.cs">
       <DependentUpon>WellgroupStatus.cs</DependentUpon>
     </Compile>
+    <Compile Include="lw\XtraUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lw\XtraUserControl1.Designer.cs">
+      <DependentUpon>XtraUserControl1.cs</DependentUpon>
+    </Compile>
     <Compile Include="model\DB.cs" />
     <Compile Include="model\Globals.cs" />
     <Compile Include="model\MyCache.cs" />
@@ -479,6 +485,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="lw\WellgroupStatus.resx">
       <DependentUpon>WellgroupStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lw\XtraUserControl1.resx">
+      <DependentUpon>XtraUserControl1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
