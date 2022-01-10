@@ -15,6 +15,9 @@ app.config
 *.user
 *.userosscache
 *.sln.docstates
+*.exe
+*.pdb
+*.csproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
