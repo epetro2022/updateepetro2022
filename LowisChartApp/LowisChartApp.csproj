@@ -67,6 +67,7 @@
     <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
@@ -390,6 +391,19 @@
     <Compile Include="model\MyCache.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="utility\frmFav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utility\frmFav.Designer.cs">
+      <DependentUpon>frmFav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utility\MsgBox.cs" />
+    <Compile Include="utility\ucFavorite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="utility\ucFavorite.Designer.cs">
+      <DependentUpon>ucFavorite.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="BeamWellConditions\BeamWellCondition.resx">
       <DependentUpon>BeamWellCondition.cs</DependentUpon>
     </EmbeddedResource>
@@ -500,6 +514,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="utility\frmFav.resx">
+      <DependentUpon>frmFav.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="app.config">
       <SubType>Designer</SubType>
     </None>
@@ -822,6 +839,10 @@
   <ItemGroup>
     <Content Include="images\Go.png" />
     <Content Include="images\Turn off.png" />
+    <Content Include="utility\error.png" />
+    <Content Include="utility\information.png" />
+    <Content Include="utility\nic80x80.png" />
+    <Content Include="utility\question.png" />
     <None Include="Resources\Stop sign.png" />
     <None Include="Resources\Go.png" />
   </ItemGroup>

@@ -949,3 +949,5 @@ G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartAp
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.csproj.CopyComplete
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.exe
 G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.pdb
+G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.lw.XtraUserControl1.resources
+G:\Project Luar\Imron\2022\updateepetro2022\LowisChartApp\obj\Debug\LowisChartApp.utility.frmFav.resources

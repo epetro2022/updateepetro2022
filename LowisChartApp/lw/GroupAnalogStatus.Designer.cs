@@ -47,6 +47,27 @@
             this.lw2DataSet2 = new LowisChartApp.lw2DataSet2();
             this.prosedurgetdataBeamWellGroupConfigurationBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
             this.panel1 = new System.Windows.Forms.Panel();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.newToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.openToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.saveToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.printToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.cutToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.copyToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.pasteToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
+            this.helpToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.newToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.openToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.saveToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.printToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
+            this.cutToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.copyToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.pasteToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
+            this.helpToolStripButton2 = new System.Windows.Forms.ToolStripButton();
             this.prosedurgetdataWellGroupStatusBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.prosedurgetdatabeamWellGroupStatusBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.prosedur_getdataGroupDescreteConfigTableAdapter = new LowisChartApp.lw2DataSet1TableAdapters.prosedur_getdataGroupDescreteConfigTableAdapter();
@@ -76,27 +97,6 @@
             this.lw2DataSet10 = new LowisChartApp.lw2DataSet10();
             this.prosedurgetdataGroupanalogstatusBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.prosedur_getdataGroupanalogstatusTableAdapter = new LowisChartApp.lw2DataSet10TableAdapters.prosedur_getdataGroupanalogstatusTableAdapter();
-            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.newToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.openToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.saveToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.printToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
-            this.cutToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.copyToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.pasteToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
-            this.helpToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.newToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.openToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.saveToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.printToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
-            this.cutToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.copyToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.pasteToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
-            this.helpToolStripButton2 = new System.Windows.Forms.ToolStripButton();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataBeamWellGroupConfigurationBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet6)).BeginInit();
@@ -108,16 +108,19 @@
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataBeamWellGroupConfigurationBindingSource2)).BeginInit();
             this.panel1.SuspendLayout();
+            this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataWellGroupStatusBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdatabeamWellGroupStatusBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gdLowis)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvLowis)).BeginInit();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer1.Panel1)).BeginInit();
+            this.gridSplitContainer1.Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer1.Panel2)).BeginInit();
             this.gridSplitContainer1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataGroupanalogstatusBindingSource)).BeginInit();
-            this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // prosedur_getdataBeamWellGroupConfigurationTableAdapter2
@@ -164,7 +167,8 @@
             storedProcQuery1.Name = "prosedur_getdataWellGroupStatus";
             queryParameter1.Name = "@param";
             queryParameter1.Type = typeof(string);
-            storedProcQuery1.Parameters.Add(queryParameter1);
+            storedProcQuery1.Parameters.AddRange(new DevExpress.DataAccess.Sql.QueryParameter[] {
+            queryParameter1});
             storedProcQuery1.StoredProcName = "prosedur_getdataWellGroupStatus";
             this.sqlDataSource1.Queries.AddRange(new DevExpress.DataAccess.Sql.SqlQuery[] {
             storedProcQuery1});
@@ -194,226 +198,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1412, 32);
             this.panel1.TabIndex = 14;
-            // 
-            // prosedurgetdataWellGroupStatusBindingSource1
-            // 
-            this.prosedurgetdataWellGroupStatusBindingSource1.DataMember = "prosedur_getdataWellGroupStatus";
-            // 
-            // prosedurgetdatabeamWellGroupStatusBindingSource
-            // 
-            this.prosedurgetdatabeamWellGroupStatusBindingSource.DataMember = "prosedur_getdatabeamWellGroupStatus";
-            // 
-            // prosedur_getdataGroupDescreteConfigTableAdapter
-            // 
-            this.prosedur_getdataGroupDescreteConfigTableAdapter.ClearBeforeFill = true;
-            // 
-            // gdLowis
-            // 
-            this.gdLowis.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gdLowis.Location = new System.Drawing.Point(0, 0);
-            this.gdLowis.LookAndFeel.SkinName = "Office 2007 Blue";
-            this.gdLowis.MainView = this.gvLowis;
-            this.gdLowis.Name = "gdLowis";
-            this.gdLowis.Size = new System.Drawing.Size(1412, 515);
-            this.gdLowis.TabIndex = 0;
-            this.gdLowis.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gvLowis});
-            this.gdLowis.Click += new System.EventHandler(this.gdLowis_Click);
-            this.gdLowis.MouseUp += new System.Windows.Forms.MouseEventHandler(this.gdLowis_MouseUp);
-            // 
-            // gvLowis
-            // 
-            this.gvLowis.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
-            this.colFacilityWellName,
-            this.colAnalogPointDescription,
-            this.colCurrentValue,
-            this.colTodayMaxValue,
-            this.colTodayMinValue,
-            this.colTodayAvgValue,
-            this.colMonthlyAvgValue,
-            this.colLastMonthAvgValue,
-            this.colHiHiAlarm,
-            this.colHiAlarm,
-            this.colLoAlarm,
-            this.colLoLoAlarm,
-            this.colClamp,
-            this.colSensorFail,
-            this.colDate,
-            this.colTime,
-            this.colPointType,
-            this.colEngUnits,
-            this.colOnTrend});
-            this.gvLowis.GridControl = this.gdLowis;
-            this.gvLowis.Name = "gvLowis";
-            this.gvLowis.OptionsBehavior.Editable = false;
-            this.gvLowis.OptionsView.ColumnAutoWidth = false;
-            // 
-            // colFacilityWellName
-            // 
-            this.colFacilityWellName.FieldName = "FacilityWellName";
-            this.colFacilityWellName.Name = "colFacilityWellName";
-            this.colFacilityWellName.Visible = true;
-            this.colFacilityWellName.VisibleIndex = 0;
-            // 
-            // colAnalogPointDescription
-            // 
-            this.colAnalogPointDescription.FieldName = "AnalogPointDescription";
-            this.colAnalogPointDescription.Name = "colAnalogPointDescription";
-            this.colAnalogPointDescription.Visible = true;
-            this.colAnalogPointDescription.VisibleIndex = 1;
-            // 
-            // colCurrentValue
-            // 
-            this.colCurrentValue.FieldName = "CurrentValue";
-            this.colCurrentValue.Name = "colCurrentValue";
-            this.colCurrentValue.Visible = true;
-            this.colCurrentValue.VisibleIndex = 2;
-            // 
-            // colTodayMaxValue
-            // 
-            this.colTodayMaxValue.FieldName = "TodayMaxValue";
-            this.colTodayMaxValue.Name = "colTodayMaxValue";
-            this.colTodayMaxValue.Visible = true;
-            this.colTodayMaxValue.VisibleIndex = 3;
-            // 
-            // colTodayMinValue
-            // 
-            this.colTodayMinValue.FieldName = "TodayMinValue";
-            this.colTodayMinValue.Name = "colTodayMinValue";
-            this.colTodayMinValue.Visible = true;
-            this.colTodayMinValue.VisibleIndex = 4;
-            // 
-            // colTodayAvgValue
-            // 
-            this.colTodayAvgValue.FieldName = "TodayAvgValue";
-            this.colTodayAvgValue.Name = "colTodayAvgValue";
-            this.colTodayAvgValue.Visible = true;
-            this.colTodayAvgValue.VisibleIndex = 5;
-            // 
-            // colMonthlyAvgValue
-            // 
-            this.colMonthlyAvgValue.FieldName = "MonthlyAvgValue";
-            this.colMonthlyAvgValue.Name = "colMonthlyAvgValue";
-            this.colMonthlyAvgValue.Visible = true;
-            this.colMonthlyAvgValue.VisibleIndex = 6;
-            // 
-            // colLastMonthAvgValue
-            // 
-            this.colLastMonthAvgValue.FieldName = "LastMonthAvgValue";
-            this.colLastMonthAvgValue.Name = "colLastMonthAvgValue";
-            this.colLastMonthAvgValue.Visible = true;
-            this.colLastMonthAvgValue.VisibleIndex = 7;
-            // 
-            // colHiHiAlarm
-            // 
-            this.colHiHiAlarm.FieldName = "HiHiAlarm";
-            this.colHiHiAlarm.Name = "colHiHiAlarm";
-            this.colHiHiAlarm.Visible = true;
-            this.colHiHiAlarm.VisibleIndex = 8;
-            // 
-            // colHiAlarm
-            // 
-            this.colHiAlarm.FieldName = "HiAlarm";
-            this.colHiAlarm.Name = "colHiAlarm";
-            this.colHiAlarm.Visible = true;
-            this.colHiAlarm.VisibleIndex = 9;
-            // 
-            // colLoAlarm
-            // 
-            this.colLoAlarm.FieldName = "LoAlarm";
-            this.colLoAlarm.Name = "colLoAlarm";
-            this.colLoAlarm.Visible = true;
-            this.colLoAlarm.VisibleIndex = 10;
-            // 
-            // colLoLoAlarm
-            // 
-            this.colLoLoAlarm.FieldName = "LoLoAlarm";
-            this.colLoLoAlarm.Name = "colLoLoAlarm";
-            this.colLoLoAlarm.Visible = true;
-            this.colLoLoAlarm.VisibleIndex = 11;
-            // 
-            // colClamp
-            // 
-            this.colClamp.FieldName = "Clamp";
-            this.colClamp.Name = "colClamp";
-            this.colClamp.Visible = true;
-            this.colClamp.VisibleIndex = 12;
-            // 
-            // colSensorFail
-            // 
-            this.colSensorFail.FieldName = "SensorFail";
-            this.colSensorFail.Name = "colSensorFail";
-            this.colSensorFail.Visible = true;
-            this.colSensorFail.VisibleIndex = 13;
-            // 
-            // colDate
-            // 
-            this.colDate.FieldName = "Date";
-            this.colDate.Name = "colDate";
-            this.colDate.Visible = true;
-            this.colDate.VisibleIndex = 14;
-            // 
-            // colTime
-            // 
-            this.colTime.FieldName = "Time";
-            this.colTime.Name = "colTime";
-            this.colTime.Visible = true;
-            this.colTime.VisibleIndex = 15;
-            // 
-            // colPointType
-            // 
-            this.colPointType.FieldName = "PointType";
-            this.colPointType.Name = "colPointType";
-            this.colPointType.Visible = true;
-            this.colPointType.VisibleIndex = 16;
-            // 
-            // colEngUnits
-            // 
-            this.colEngUnits.FieldName = "EngUnits";
-            this.colEngUnits.Name = "colEngUnits";
-            this.colEngUnits.Visible = true;
-            this.colEngUnits.VisibleIndex = 17;
-            // 
-            // colOnTrend
-            // 
-            this.colOnTrend.FieldName = "OnTrend";
-            this.colOnTrend.Name = "colOnTrend";
-            this.colOnTrend.Visible = true;
-            this.colOnTrend.VisibleIndex = 18;
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.gridSplitContainer1);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1412, 515);
-            this.panel2.TabIndex = 15;
-            // 
-            // gridSplitContainer1
-            // 
-            this.gridSplitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridSplitContainer1.Grid = this.gdLowis;
-            this.gridSplitContainer1.Location = new System.Drawing.Point(0, 0);
-            this.gridSplitContainer1.Name = "gridSplitContainer1";
-            this.gridSplitContainer1.Panel1.Controls.Add(this.gdLowis);
-            this.gridSplitContainer1.Size = new System.Drawing.Size(1412, 515);
-            this.gridSplitContainer1.TabIndex = 0;
-            // 
-            // lw2DataSet10
-            // 
-            this.lw2DataSet10.DataSetName = "lw2DataSet10";
-            this.lw2DataSet10.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // prosedurgetdataGroupanalogstatusBindingSource
-            // 
-            this.prosedurgetdataGroupanalogstatusBindingSource.DataMember = "prosedur_getdataGroupanalogstatus";
-            this.prosedurgetdataGroupanalogstatusBindingSource.DataSource = this.lw2DataSet10;
-            // 
-            // prosedur_getdataGroupanalogstatusTableAdapter
-            // 
-            this.prosedur_getdataGroupanalogstatusTableAdapter.ClearBeforeFill = true;
             // 
             // toolStrip1
             // 
@@ -610,6 +394,228 @@
             this.helpToolStripButton2.Size = new System.Drawing.Size(23, 22);
             this.helpToolStripButton2.Text = "He&lp";
             // 
+            // prosedurgetdataWellGroupStatusBindingSource1
+            // 
+            this.prosedurgetdataWellGroupStatusBindingSource1.DataMember = "prosedur_getdataWellGroupStatus";
+            // 
+            // prosedurgetdatabeamWellGroupStatusBindingSource
+            // 
+            this.prosedurgetdatabeamWellGroupStatusBindingSource.DataMember = "prosedur_getdatabeamWellGroupStatus";
+            // 
+            // prosedur_getdataGroupDescreteConfigTableAdapter
+            // 
+            this.prosedur_getdataGroupDescreteConfigTableAdapter.ClearBeforeFill = true;
+            // 
+            // gdLowis
+            // 
+            this.gdLowis.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gdLowis.Location = new System.Drawing.Point(0, 0);
+            this.gdLowis.MainView = this.gvLowis;
+            this.gdLowis.Name = "gdLowis";
+            this.gdLowis.Size = new System.Drawing.Size(1412, 515);
+            this.gdLowis.TabIndex = 0;
+            this.gdLowis.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gvLowis});
+            this.gdLowis.Click += new System.EventHandler(this.gdLowis_Click);
+            this.gdLowis.MouseUp += new System.Windows.Forms.MouseEventHandler(this.gdLowis_MouseUp);
+            // 
+            // gvLowis
+            // 
+            this.gvLowis.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.colFacilityWellName,
+            this.colAnalogPointDescription,
+            this.colCurrentValue,
+            this.colTodayMaxValue,
+            this.colTodayMinValue,
+            this.colTodayAvgValue,
+            this.colMonthlyAvgValue,
+            this.colLastMonthAvgValue,
+            this.colHiHiAlarm,
+            this.colHiAlarm,
+            this.colLoAlarm,
+            this.colLoLoAlarm,
+            this.colClamp,
+            this.colSensorFail,
+            this.colDate,
+            this.colTime,
+            this.colPointType,
+            this.colEngUnits,
+            this.colOnTrend});
+            this.gvLowis.GridControl = this.gdLowis;
+            this.gvLowis.Name = "gvLowis";
+            this.gvLowis.OptionsBehavior.Editable = false;
+            this.gvLowis.OptionsView.ColumnAutoWidth = false;
+            // 
+            // colFacilityWellName
+            // 
+            this.colFacilityWellName.FieldName = "FacilityWellName";
+            this.colFacilityWellName.Name = "colFacilityWellName";
+            this.colFacilityWellName.Visible = true;
+            this.colFacilityWellName.VisibleIndex = 0;
+            // 
+            // colAnalogPointDescription
+            // 
+            this.colAnalogPointDescription.FieldName = "AnalogPointDescription";
+            this.colAnalogPointDescription.Name = "colAnalogPointDescription";
+            this.colAnalogPointDescription.Visible = true;
+            this.colAnalogPointDescription.VisibleIndex = 1;
+            // 
+            // colCurrentValue
+            // 
+            this.colCurrentValue.FieldName = "CurrentValue";
+            this.colCurrentValue.Name = "colCurrentValue";
+            this.colCurrentValue.Visible = true;
+            this.colCurrentValue.VisibleIndex = 2;
+            // 
+            // colTodayMaxValue
+            // 
+            this.colTodayMaxValue.FieldName = "TodayMaxValue";
+            this.colTodayMaxValue.Name = "colTodayMaxValue";
+            this.colTodayMaxValue.Visible = true;
+            this.colTodayMaxValue.VisibleIndex = 3;
+            // 
+            // colTodayMinValue
+            // 
+            this.colTodayMinValue.FieldName = "TodayMinValue";
+            this.colTodayMinValue.Name = "colTodayMinValue";
+            this.colTodayMinValue.Visible = true;
+            this.colTodayMinValue.VisibleIndex = 4;
+            // 
+            // colTodayAvgValue
+            // 
+            this.colTodayAvgValue.FieldName = "TodayAvgValue";
+            this.colTodayAvgValue.Name = "colTodayAvgValue";
+            this.colTodayAvgValue.Visible = true;
+            this.colTodayAvgValue.VisibleIndex = 5;
+            // 
+            // colMonthlyAvgValue
+            // 
+            this.colMonthlyAvgValue.FieldName = "MonthlyAvgValue";
+            this.colMonthlyAvgValue.Name = "colMonthlyAvgValue";
+            this.colMonthlyAvgValue.Visible = true;
+            this.colMonthlyAvgValue.VisibleIndex = 6;
+            // 
+            // colLastMonthAvgValue
+            // 
+            this.colLastMonthAvgValue.FieldName = "LastMonthAvgValue";
+            this.colLastMonthAvgValue.Name = "colLastMonthAvgValue";
+            this.colLastMonthAvgValue.Visible = true;
+            this.colLastMonthAvgValue.VisibleIndex = 7;
+            // 
+            // colHiHiAlarm
+            // 
+            this.colHiHiAlarm.FieldName = "HiHiAlarm";
+            this.colHiHiAlarm.Name = "colHiHiAlarm";
+            this.colHiHiAlarm.Visible = true;
+            this.colHiHiAlarm.VisibleIndex = 8;
+            // 
+            // colHiAlarm
+            // 
+            this.colHiAlarm.FieldName = "HiAlarm";
+            this.colHiAlarm.Name = "colHiAlarm";
+            this.colHiAlarm.Visible = true;
+            this.colHiAlarm.VisibleIndex = 9;
+            // 
+            // colLoAlarm
+            // 
+            this.colLoAlarm.FieldName = "LoAlarm";
+            this.colLoAlarm.Name = "colLoAlarm";
+            this.colLoAlarm.Visible = true;
+            this.colLoAlarm.VisibleIndex = 10;
+            // 
+            // colLoLoAlarm
+            // 
+            this.colLoLoAlarm.FieldName = "LoLoAlarm";
+            this.colLoLoAlarm.Name = "colLoLoAlarm";
+            this.colLoLoAlarm.Visible = true;
+            this.colLoLoAlarm.VisibleIndex = 11;
+            // 
+            // colClamp
+            // 
+            this.colClamp.FieldName = "Clamp";
+            this.colClamp.Name = "colClamp";
+            this.colClamp.Visible = true;
+            this.colClamp.VisibleIndex = 12;
+            // 
+            // colSensorFail
+            // 
+            this.colSensorFail.FieldName = "SensorFail";
+            this.colSensorFail.Name = "colSensorFail";
+            this.colSensorFail.Visible = true;
+            this.colSensorFail.VisibleIndex = 13;
+            // 
+            // colDate
+            // 
+            this.colDate.FieldName = "Date";
+            this.colDate.Name = "colDate";
+            this.colDate.Visible = true;
+            this.colDate.VisibleIndex = 14;
+            // 
+            // colTime
+            // 
+            this.colTime.FieldName = "Time";
+            this.colTime.Name = "colTime";
+            this.colTime.Visible = true;
+            this.colTime.VisibleIndex = 15;
+            // 
+            // colPointType
+            // 
+            this.colPointType.FieldName = "PointType";
+            this.colPointType.Name = "colPointType";
+            this.colPointType.Visible = true;
+            this.colPointType.VisibleIndex = 16;
+            // 
+            // colEngUnits
+            // 
+            this.colEngUnits.FieldName = "EngUnits";
+            this.colEngUnits.Name = "colEngUnits";
+            this.colEngUnits.Visible = true;
+            this.colEngUnits.VisibleIndex = 17;
+            // 
+            // colOnTrend
+            // 
+            this.colOnTrend.FieldName = "OnTrend";
+            this.colOnTrend.Name = "colOnTrend";
+            this.colOnTrend.Visible = true;
+            this.colOnTrend.VisibleIndex = 18;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.gridSplitContainer1);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1412, 515);
+            this.panel2.TabIndex = 15;
+            // 
+            // gridSplitContainer1
+            // 
+            this.gridSplitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gridSplitContainer1.Grid = this.gdLowis;
+            this.gridSplitContainer1.Location = new System.Drawing.Point(0, 0);
+            this.gridSplitContainer1.Name = "gridSplitContainer1";
+            // 
+            // gridSplitContainer1.Panel1
+            // 
+            this.gridSplitContainer1.Panel1.Controls.Add(this.gdLowis);
+            this.gridSplitContainer1.Size = new System.Drawing.Size(1412, 515);
+            this.gridSplitContainer1.TabIndex = 0;
+            // 
+            // lw2DataSet10
+            // 
+            this.lw2DataSet10.DataSetName = "lw2DataSet10";
+            this.lw2DataSet10.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // prosedurgetdataGroupanalogstatusBindingSource
+            // 
+            this.prosedurgetdataGroupanalogstatusBindingSource.DataMember = "prosedur_getdataGroupanalogstatus";
+            this.prosedurgetdataGroupanalogstatusBindingSource.DataSource = this.lw2DataSet10;
+            // 
+            // prosedur_getdataGroupanalogstatusTableAdapter
+            // 
+            this.prosedur_getdataGroupanalogstatusTableAdapter.ClearBeforeFill = true;
+            // 
             // GroupAnalogStatus
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -631,17 +637,20 @@
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataBeamWellGroupConfigurationBindingSource2)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataWellGroupStatusBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdatabeamWellGroupStatusBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gdLowis)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvLowis)).EndInit();
             this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer1.Panel1)).EndInit();
+            this.gridSplitContainer1.Panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer1.Panel2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer1)).EndInit();
             this.gridSplitContainer1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataGroupanalogstatusBindingSource)).EndInit();
-            this.toolStrip1.ResumeLayout(false);
-            this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
 
         }

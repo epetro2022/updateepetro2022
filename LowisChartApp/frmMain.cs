@@ -10,6 +10,7 @@ using LowisChartApp.BeamWellConditions;
 using LowisChartApp.lw;
 using LowisChartApp.model;
 using System.Threading;
+using LowisChartApp.utility;
 
 namespace LowisChartApp
 {
@@ -74,6 +75,7 @@ namespace LowisChartApp
         EspGroup moduleEspGroupDown;
         EspGroup moduleEspGroupCommFail;
         EspGroup moduleEspGroupCommOk;
+        frmFav favDialog;
         public frmMain()
         {
             InitializeComponent();
@@ -1735,10 +1737,12 @@ namespace LowisChartApp
         private void frmMain_Load(object sender, EventArgs e)
         {
             TreeNodeLoad();
-            splitContainer3.Panel2.Hide();
-            splitContainer3.Panel2Collapsed = true;
+            //splitContainer3.Panel2.Hide();
+            //splitContainer3.Panel2Collapsed = true;
+            //splitContainer3.Panel2.Height = 20;
             ttJenis.Text = "";
-       }
+            favDialog = new frmFav();
+        }
 
         public void higlightlistview(string type) {
             int index;
@@ -2646,6 +2650,28 @@ namespace LowisChartApp
         private void beamAnalysisWorkbenchToolStripMenuItem4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnfav_Click(object sender, EventArgs e)
+        {
+            //
+            
+            favDialog.Show();
+        }
+
+        private void tvMenu_AfterSelect_1(object sender, TreeViewEventArgs e)
+        {
+
+        }
+
+        private void lvWell_ItemDrag(object sender, ItemDragEventArgs e)
+        {
+            this.favDialog.Focus();
+            //this.favDialog.Controls
+            //favDialog.Controls.IndexOf[1].;
+            var items = new List<ListViewItem>();
+            // add dragged one first
+            items.Add((ListViewItem)e.Item);
         }
     }
     public class FactoryData
