@@ -29,9 +29,44 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            DevExpress.DataAccess.Sql.StoredProcQuery storedProcQuery1 = new DevExpress.DataAccess.Sql.StoredProcQuery();
-            DevExpress.DataAccess.Sql.QueryParameter queryParameter1 = new DevExpress.DataAccess.Sql.QueryParameter();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GroupAnalogConfig));
+            DevExpress.DataAccess.Sql.StoredProcQuery storedProcQuery2 = new DevExpress.DataAccess.Sql.StoredProcQuery();
+            DevExpress.DataAccess.Sql.QueryParameter queryParameter2 = new DevExpress.DataAccess.Sql.QueryParameter();
+            this.prosedurgetdataGroupAnalogConfigBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.lw2DataSet3 = new LowisChartApp.lw2DataSet3();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.lw2DataSet1 = new LowisChartApp.lw2DataSet1();
+            this.prosedur_getdataGroupDescreteConfigTableAdapter = new LowisChartApp.lw2DataSet1TableAdapters.prosedur_getdataGroupDescreteConfigTableAdapter();
+            this.prosedurgetdatabeamWellGroupStatusBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.prosedurgetdataWellGroupStatusBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.newToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.openToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.saveToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.printToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.cutToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.copyToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.pasteToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
+            this.helpToolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.newToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.openToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.saveToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.printToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
+            this.cutToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.copyToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.pasteToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
+            this.helpToolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.sqlDataSource1 = new DevExpress.DataAccess.Sql.SqlDataSource(this.components);
+            this.lw2DataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.lw2DataSetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.prosedurgetdataGroupDescreteConfigBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.prosedur_getdataGroupAnalogConfigTableAdapter = new LowisChartApp.lw2DataSet3TableAdapters.prosedur_getdataGroupAnalogConfigTableAdapter();
+            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.gdLowis = new DevExpress.XtraGrid.GridControl();
             this.gvLowis = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.colLWNAME = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -80,42 +115,7 @@
             this.colCalc_Analog = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colAlarm_Level = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colAlarm_Group = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.prosedurgetdataGroupAnalogConfigBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.lw2DataSet3 = new LowisChartApp.lw2DataSet3();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.lw2DataSet1 = new LowisChartApp.lw2DataSet1();
-            this.prosedur_getdataGroupDescreteConfigTableAdapter = new LowisChartApp.lw2DataSet1TableAdapters.prosedur_getdataGroupDescreteConfigTableAdapter();
-            this.prosedurgetdatabeamWellGroupStatusBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.prosedurgetdataWellGroupStatusBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.sqlDataSource1 = new DevExpress.DataAccess.Sql.SqlDataSource(this.components);
-            this.lw2DataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.lw2DataSetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.prosedurgetdataGroupDescreteConfigBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.prosedur_getdataGroupAnalogConfigTableAdapter = new LowisChartApp.lw2DataSet3TableAdapters.prosedur_getdataGroupAnalogConfigTableAdapter();
-            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.newToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.openToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.saveToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.printToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
-            this.cutToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.copyToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.pasteToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
-            this.helpToolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.newToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.openToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.saveToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.printToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
-            this.cutToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.copyToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.pasteToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
-            this.helpToolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            ((System.ComponentModel.ISupportInitialize)(this.gdLowis)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gvLowis)).BeginInit();
+            this.chartanalog = new DevExpress.XtraCharts.ChartControl();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataGroupAnalogConfigBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet3)).BeginInit();
             this.panel2.SuspendLayout();
@@ -123,26 +123,312 @@
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdatabeamWellGroupStatusBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataWellGroupStatusBindingSource1)).BeginInit();
             this.panel1.SuspendLayout();
+            this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSetBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSetBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataGroupDescreteConfigBindingSource)).BeginInit();
-            this.toolStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
+            this.splitContainer1.Panel1.SuspendLayout();
+            this.splitContainer1.Panel2.SuspendLayout();
+            this.splitContainer1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gdLowis)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gvLowis)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartanalog)).BeginInit();
             this.SuspendLayout();
+            // 
+            // prosedurgetdataGroupAnalogConfigBindingSource
+            // 
+            this.prosedurgetdataGroupAnalogConfigBindingSource.DataMember = "prosedur_getdataGroupAnalogConfig";
+            this.prosedurgetdataGroupAnalogConfigBindingSource.DataSource = this.lw2DataSet3;
+            // 
+            // lw2DataSet3
+            // 
+            this.lw2DataSet3.DataSetName = "lw2DataSet3";
+            this.lw2DataSet3.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.splitContainer1);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel2.Location = new System.Drawing.Point(0, 32);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1412, 483);
+            this.panel2.TabIndex = 11;
+            // 
+            // lw2DataSet1
+            // 
+            this.lw2DataSet1.DataSetName = "lw2DataSet1";
+            this.lw2DataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // prosedur_getdataGroupDescreteConfigTableAdapter
+            // 
+            this.prosedur_getdataGroupDescreteConfigTableAdapter.ClearBeforeFill = true;
+            // 
+            // prosedurgetdatabeamWellGroupStatusBindingSource
+            // 
+            this.prosedurgetdatabeamWellGroupStatusBindingSource.DataMember = "prosedur_getdatabeamWellGroupStatus";
+            // 
+            // prosedurgetdataWellGroupStatusBindingSource1
+            // 
+            this.prosedurgetdataWellGroupStatusBindingSource1.DataMember = "prosedur_getdataWellGroupStatus";
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.toolStrip1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1412, 32);
+            this.panel1.TabIndex = 10;
+            // 
+            // toolStrip1
+            // 
+            this.toolStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(239)))), ((int)(((byte)(255)))));
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.newToolStripButton1,
+            this.openToolStripButton1,
+            this.saveToolStripButton1,
+            this.printToolStripButton1,
+            this.toolStripSeparator2,
+            this.cutToolStripButton1,
+            this.copyToolStripButton1,
+            this.pasteToolStripButton1,
+            this.toolStripSeparator3,
+            this.helpToolStripButton1,
+            this.newToolStripButton2,
+            this.openToolStripButton2,
+            this.saveToolStripButton2,
+            this.printToolStripButton2,
+            this.toolStripSeparator4,
+            this.cutToolStripButton2,
+            this.copyToolStripButton2,
+            this.pasteToolStripButton2,
+            this.toolStripSeparator5,
+            this.helpToolStripButton2});
+            this.toolStrip1.Location = new System.Drawing.Point(0, 0);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
+            this.toolStrip1.Size = new System.Drawing.Size(1412, 25);
+            this.toolStrip1.TabIndex = 2;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // newToolStripButton1
+            // 
+            this.newToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.newToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("newToolStripButton1.Image")));
+            this.newToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.newToolStripButton1.Name = "newToolStripButton1";
+            this.newToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.newToolStripButton1.Text = "&New";
+            // 
+            // openToolStripButton1
+            // 
+            this.openToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.openToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("openToolStripButton1.Image")));
+            this.openToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.openToolStripButton1.Name = "openToolStripButton1";
+            this.openToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.openToolStripButton1.Text = "&Open";
+            // 
+            // saveToolStripButton1
+            // 
+            this.saveToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.saveToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("saveToolStripButton1.Image")));
+            this.saveToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.saveToolStripButton1.Name = "saveToolStripButton1";
+            this.saveToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.saveToolStripButton1.Text = "&Save";
+            // 
+            // printToolStripButton1
+            // 
+            this.printToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.printToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("printToolStripButton1.Image")));
+            this.printToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.printToolStripButton1.Name = "printToolStripButton1";
+            this.printToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.printToolStripButton1.Text = "&Print";
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 25);
+            // 
+            // cutToolStripButton1
+            // 
+            this.cutToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.cutToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("cutToolStripButton1.Image")));
+            this.cutToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.cutToolStripButton1.Name = "cutToolStripButton1";
+            this.cutToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.cutToolStripButton1.Text = "C&ut";
+            // 
+            // copyToolStripButton1
+            // 
+            this.copyToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.copyToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("copyToolStripButton1.Image")));
+            this.copyToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.copyToolStripButton1.Name = "copyToolStripButton1";
+            this.copyToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.copyToolStripButton1.Text = "&Copy";
+            // 
+            // pasteToolStripButton1
+            // 
+            this.pasteToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.pasteToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("pasteToolStripButton1.Image")));
+            this.pasteToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.pasteToolStripButton1.Name = "pasteToolStripButton1";
+            this.pasteToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.pasteToolStripButton1.Text = "&Paste";
+            // 
+            // toolStripSeparator3
+            // 
+            this.toolStripSeparator3.Name = "toolStripSeparator3";
+            this.toolStripSeparator3.Size = new System.Drawing.Size(6, 25);
+            // 
+            // helpToolStripButton1
+            // 
+            this.helpToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.helpToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("helpToolStripButton1.Image")));
+            this.helpToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.helpToolStripButton1.Name = "helpToolStripButton1";
+            this.helpToolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.helpToolStripButton1.Text = "He&lp";
+            // 
+            // newToolStripButton2
+            // 
+            this.newToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.newToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("newToolStripButton2.Image")));
+            this.newToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.newToolStripButton2.Name = "newToolStripButton2";
+            this.newToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.newToolStripButton2.Text = "&New";
+            // 
+            // openToolStripButton2
+            // 
+            this.openToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.openToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("openToolStripButton2.Image")));
+            this.openToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.openToolStripButton2.Name = "openToolStripButton2";
+            this.openToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.openToolStripButton2.Text = "&Open";
+            // 
+            // saveToolStripButton2
+            // 
+            this.saveToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.saveToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("saveToolStripButton2.Image")));
+            this.saveToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.saveToolStripButton2.Name = "saveToolStripButton2";
+            this.saveToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.saveToolStripButton2.Text = "&Save";
+            // 
+            // printToolStripButton2
+            // 
+            this.printToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.printToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("printToolStripButton2.Image")));
+            this.printToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.printToolStripButton2.Name = "printToolStripButton2";
+            this.printToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.printToolStripButton2.Text = "&Print";
+            // 
+            // toolStripSeparator4
+            // 
+            this.toolStripSeparator4.Name = "toolStripSeparator4";
+            this.toolStripSeparator4.Size = new System.Drawing.Size(6, 25);
+            // 
+            // cutToolStripButton2
+            // 
+            this.cutToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.cutToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("cutToolStripButton2.Image")));
+            this.cutToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.cutToolStripButton2.Name = "cutToolStripButton2";
+            this.cutToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.cutToolStripButton2.Text = "C&ut";
+            // 
+            // copyToolStripButton2
+            // 
+            this.copyToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.copyToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("copyToolStripButton2.Image")));
+            this.copyToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.copyToolStripButton2.Name = "copyToolStripButton2";
+            this.copyToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.copyToolStripButton2.Text = "&Copy";
+            // 
+            // pasteToolStripButton2
+            // 
+            this.pasteToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.pasteToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("pasteToolStripButton2.Image")));
+            this.pasteToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.pasteToolStripButton2.Name = "pasteToolStripButton2";
+            this.pasteToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.pasteToolStripButton2.Text = "&Paste";
+            // 
+            // toolStripSeparator5
+            // 
+            this.toolStripSeparator5.Name = "toolStripSeparator5";
+            this.toolStripSeparator5.Size = new System.Drawing.Size(6, 25);
+            // 
+            // helpToolStripButton2
+            // 
+            this.helpToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.helpToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("helpToolStripButton2.Image")));
+            this.helpToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.helpToolStripButton2.Name = "helpToolStripButton2";
+            this.helpToolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.helpToolStripButton2.Text = "He&lp";
+            // 
+            // sqlDataSource1
+            // 
+            this.sqlDataSource1.ConnectionName = "LowisChartApp.Properties.Settings.db_chartConnectionString";
+            this.sqlDataSource1.Name = "sqlDataSource1";
+            storedProcQuery2.Name = "prosedur_getdataWellGroupStatus";
+            queryParameter2.Name = "@param";
+            queryParameter2.Type = typeof(string);
+            storedProcQuery2.Parameters.AddRange(new DevExpress.DataAccess.Sql.QueryParameter[] {
+            queryParameter2});
+            storedProcQuery2.StoredProcName = "prosedur_getdataWellGroupStatus";
+            this.sqlDataSource1.Queries.AddRange(new DevExpress.DataAccess.Sql.SqlQuery[] {
+            storedProcQuery2});
+            this.sqlDataSource1.ResultSchemaSerializable = resources.GetString("sqlDataSource1.ResultSchemaSerializable");
+            // 
+            // prosedurgetdataGroupDescreteConfigBindingSource
+            // 
+            this.prosedurgetdataGroupDescreteConfigBindingSource.DataMember = "prosedur_getdataGroupDescreteConfig";
+            this.prosedurgetdataGroupDescreteConfigBindingSource.DataSource = this.lw2DataSet1;
+            // 
+            // prosedur_getdataGroupAnalogConfigTableAdapter
+            // 
+            this.prosedur_getdataGroupAnalogConfigTableAdapter.ClearBeforeFill = true;
+            // 
+            // splitContainer1
+            // 
+            this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer1.Name = "splitContainer1";
+            this.splitContainer1.Orientation = System.Windows.Forms.Orientation.Horizontal;
+            // 
+            // splitContainer1.Panel1
+            // 
+            this.splitContainer1.Panel1.Controls.Add(this.gdLowis);
+            // 
+            // splitContainer1.Panel2
+            // 
+            this.splitContainer1.Panel2.Controls.Add(this.chartanalog);
+            this.splitContainer1.Size = new System.Drawing.Size(1412, 483);
+            this.splitContainer1.SplitterDistance = 241;
+            this.splitContainer1.TabIndex = 1;
             // 
             // gdLowis
             // 
             this.gdLowis.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gdLowis.Location = new System.Drawing.Point(0, 0);
-            this.gdLowis.LookAndFeel.SkinName = "Office 2007 Blue";
             this.gdLowis.MainView = this.gvLowis;
             this.gdLowis.Name = "gdLowis";
-            this.gdLowis.Size = new System.Drawing.Size(1412, 483);
-            this.gdLowis.TabIndex = 0;
+            this.gdLowis.Size = new System.Drawing.Size(1412, 241);
+            this.gdLowis.TabIndex = 1;
             this.gdLowis.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvLowis});
-            this.gdLowis.Click += new System.EventHandler(this.gdLowis_Click);
-            this.gdLowis.MouseDown += new System.Windows.Forms.MouseEventHandler(this.gdLowis_MouseDown);
-            this.gdLowis.MouseUp += new System.Windows.Forms.MouseEventHandler(this.gdLowis_MouseUp);
             // 
             // gvLowis
             // 
@@ -520,269 +806,14 @@
             this.colAlarm_Group.Visible = true;
             this.colAlarm_Group.VisibleIndex = 45;
             // 
-            // prosedurgetdataGroupAnalogConfigBindingSource
+            // chartanalog
             // 
-            this.prosedurgetdataGroupAnalogConfigBindingSource.DataMember = "prosedur_getdataGroupAnalogConfig";
-            this.prosedurgetdataGroupAnalogConfigBindingSource.DataSource = this.lw2DataSet3;
-            // 
-            // lw2DataSet3
-            // 
-            this.lw2DataSet3.DataSetName = "lw2DataSet3";
-            this.lw2DataSet3.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.gdLowis);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 32);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1412, 483);
-            this.panel2.TabIndex = 11;
-            // 
-            // lw2DataSet1
-            // 
-            this.lw2DataSet1.DataSetName = "lw2DataSet1";
-            this.lw2DataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // prosedur_getdataGroupDescreteConfigTableAdapter
-            // 
-            this.prosedur_getdataGroupDescreteConfigTableAdapter.ClearBeforeFill = true;
-            // 
-            // prosedurgetdatabeamWellGroupStatusBindingSource
-            // 
-            this.prosedurgetdatabeamWellGroupStatusBindingSource.DataMember = "prosedur_getdatabeamWellGroupStatus";
-            // 
-            // prosedurgetdataWellGroupStatusBindingSource1
-            // 
-            this.prosedurgetdataWellGroupStatusBindingSource1.DataMember = "prosedur_getdataWellGroupStatus";
-            // 
-            // panel1
-            // 
-            this.panel1.Controls.Add(this.toolStrip1);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1412, 32);
-            this.panel1.TabIndex = 10;
-            // 
-            // sqlDataSource1
-            // 
-            this.sqlDataSource1.ConnectionName = "LowisChartApp.Properties.Settings.db_chartConnectionString";
-            this.sqlDataSource1.Name = "sqlDataSource1";
-            storedProcQuery1.Name = "prosedur_getdataWellGroupStatus";
-            queryParameter1.Name = "@param";
-            queryParameter1.Type = typeof(string);
-            storedProcQuery1.Parameters.Add(queryParameter1);
-            storedProcQuery1.StoredProcName = "prosedur_getdataWellGroupStatus";
-            this.sqlDataSource1.Queries.AddRange(new DevExpress.DataAccess.Sql.SqlQuery[] {
-            storedProcQuery1});
-            this.sqlDataSource1.ResultSchemaSerializable = resources.GetString("sqlDataSource1.ResultSchemaSerializable");
-            // 
-            // prosedurgetdataGroupDescreteConfigBindingSource
-            // 
-            this.prosedurgetdataGroupDescreteConfigBindingSource.DataMember = "prosedur_getdataGroupDescreteConfig";
-            this.prosedurgetdataGroupDescreteConfigBindingSource.DataSource = this.lw2DataSet1;
-            // 
-            // prosedur_getdataGroupAnalogConfigTableAdapter
-            // 
-            this.prosedur_getdataGroupAnalogConfigTableAdapter.ClearBeforeFill = true;
-            // 
-            // toolStrip1
-            // 
-            this.toolStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(239)))), ((int)(((byte)(255)))));
-            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.newToolStripButton1,
-            this.openToolStripButton1,
-            this.saveToolStripButton1,
-            this.printToolStripButton1,
-            this.toolStripSeparator2,
-            this.cutToolStripButton1,
-            this.copyToolStripButton1,
-            this.pasteToolStripButton1,
-            this.toolStripSeparator3,
-            this.helpToolStripButton1,
-            this.newToolStripButton2,
-            this.openToolStripButton2,
-            this.saveToolStripButton2,
-            this.printToolStripButton2,
-            this.toolStripSeparator4,
-            this.cutToolStripButton2,
-            this.copyToolStripButton2,
-            this.pasteToolStripButton2,
-            this.toolStripSeparator5,
-            this.helpToolStripButton2});
-            this.toolStrip1.Location = new System.Drawing.Point(0, 0);
-            this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
-            this.toolStrip1.Size = new System.Drawing.Size(1412, 25);
-            this.toolStrip1.TabIndex = 2;
-            this.toolStrip1.Text = "toolStrip1";
-            // 
-            // newToolStripButton1
-            // 
-            this.newToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.newToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("newToolStripButton1.Image")));
-            this.newToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.newToolStripButton1.Name = "newToolStripButton1";
-            this.newToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.newToolStripButton1.Text = "&New";
-            // 
-            // openToolStripButton1
-            // 
-            this.openToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.openToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("openToolStripButton1.Image")));
-            this.openToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.openToolStripButton1.Name = "openToolStripButton1";
-            this.openToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.openToolStripButton1.Text = "&Open";
-            // 
-            // saveToolStripButton1
-            // 
-            this.saveToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.saveToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("saveToolStripButton1.Image")));
-            this.saveToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.saveToolStripButton1.Name = "saveToolStripButton1";
-            this.saveToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.saveToolStripButton1.Text = "&Save";
-            // 
-            // printToolStripButton1
-            // 
-            this.printToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.printToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("printToolStripButton1.Image")));
-            this.printToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.printToolStripButton1.Name = "printToolStripButton1";
-            this.printToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.printToolStripButton1.Text = "&Print";
-            // 
-            // toolStripSeparator2
-            // 
-            this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 25);
-            // 
-            // cutToolStripButton1
-            // 
-            this.cutToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.cutToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("cutToolStripButton1.Image")));
-            this.cutToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.cutToolStripButton1.Name = "cutToolStripButton1";
-            this.cutToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.cutToolStripButton1.Text = "C&ut";
-            // 
-            // copyToolStripButton1
-            // 
-            this.copyToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.copyToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("copyToolStripButton1.Image")));
-            this.copyToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.copyToolStripButton1.Name = "copyToolStripButton1";
-            this.copyToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.copyToolStripButton1.Text = "&Copy";
-            // 
-            // pasteToolStripButton1
-            // 
-            this.pasteToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.pasteToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("pasteToolStripButton1.Image")));
-            this.pasteToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.pasteToolStripButton1.Name = "pasteToolStripButton1";
-            this.pasteToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.pasteToolStripButton1.Text = "&Paste";
-            // 
-            // toolStripSeparator3
-            // 
-            this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(6, 25);
-            // 
-            // helpToolStripButton1
-            // 
-            this.helpToolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.helpToolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("helpToolStripButton1.Image")));
-            this.helpToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.helpToolStripButton1.Name = "helpToolStripButton1";
-            this.helpToolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.helpToolStripButton1.Text = "He&lp";
-            // 
-            // newToolStripButton2
-            // 
-            this.newToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.newToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("newToolStripButton2.Image")));
-            this.newToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.newToolStripButton2.Name = "newToolStripButton2";
-            this.newToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.newToolStripButton2.Text = "&New";
-            // 
-            // openToolStripButton2
-            // 
-            this.openToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.openToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("openToolStripButton2.Image")));
-            this.openToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.openToolStripButton2.Name = "openToolStripButton2";
-            this.openToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.openToolStripButton2.Text = "&Open";
-            // 
-            // saveToolStripButton2
-            // 
-            this.saveToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.saveToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("saveToolStripButton2.Image")));
-            this.saveToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.saveToolStripButton2.Name = "saveToolStripButton2";
-            this.saveToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.saveToolStripButton2.Text = "&Save";
-            // 
-            // printToolStripButton2
-            // 
-            this.printToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.printToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("printToolStripButton2.Image")));
-            this.printToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.printToolStripButton2.Name = "printToolStripButton2";
-            this.printToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.printToolStripButton2.Text = "&Print";
-            // 
-            // toolStripSeparator4
-            // 
-            this.toolStripSeparator4.Name = "toolStripSeparator4";
-            this.toolStripSeparator4.Size = new System.Drawing.Size(6, 25);
-            // 
-            // cutToolStripButton2
-            // 
-            this.cutToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.cutToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("cutToolStripButton2.Image")));
-            this.cutToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.cutToolStripButton2.Name = "cutToolStripButton2";
-            this.cutToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.cutToolStripButton2.Text = "C&ut";
-            // 
-            // copyToolStripButton2
-            // 
-            this.copyToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.copyToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("copyToolStripButton2.Image")));
-            this.copyToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.copyToolStripButton2.Name = "copyToolStripButton2";
-            this.copyToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.copyToolStripButton2.Text = "&Copy";
-            // 
-            // pasteToolStripButton2
-            // 
-            this.pasteToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.pasteToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("pasteToolStripButton2.Image")));
-            this.pasteToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.pasteToolStripButton2.Name = "pasteToolStripButton2";
-            this.pasteToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.pasteToolStripButton2.Text = "&Paste";
-            // 
-            // toolStripSeparator5
-            // 
-            this.toolStripSeparator5.Name = "toolStripSeparator5";
-            this.toolStripSeparator5.Size = new System.Drawing.Size(6, 25);
-            // 
-            // helpToolStripButton2
-            // 
-            this.helpToolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.helpToolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("helpToolStripButton2.Image")));
-            this.helpToolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.helpToolStripButton2.Name = "helpToolStripButton2";
-            this.helpToolStripButton2.Size = new System.Drawing.Size(23, 22);
-            this.helpToolStripButton2.Text = "He&lp";
+            this.chartanalog.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.chartanalog.Location = new System.Drawing.Point(0, 0);
+            this.chartanalog.Name = "chartanalog";
+            this.chartanalog.SeriesSerializable = new DevExpress.XtraCharts.Series[0];
+            this.chartanalog.Size = new System.Drawing.Size(1412, 238);
+            this.chartanalog.TabIndex = 0;
             // 
             // GroupAnalogConfig
             // 
@@ -798,8 +829,6 @@
             this.Load += new System.EventHandler(this.GroupAnalogConfig_Load);
             this.Click += new System.EventHandler(this.GroupAnalogConfig_Click);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.GroupAnalogConfig_MouseUp);
-            ((System.ComponentModel.ISupportInitialize)(this.gdLowis)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gvLowis)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataGroupAnalogConfigBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSet3)).EndInit();
             this.panel2.ResumeLayout(false);
@@ -808,18 +837,23 @@
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataWellGroupStatusBindingSource1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSetBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lw2DataSetBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.prosedurgetdataGroupDescreteConfigBindingSource)).EndInit();
-            this.toolStrip1.ResumeLayout(false);
-            this.toolStrip1.PerformLayout();
+            this.splitContainer1.Panel1.ResumeLayout(false);
+            this.splitContainer1.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
+            this.splitContainer1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gdLowis)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gvLowis)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartanalog)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private DevExpress.XtraGrid.GridControl gdLowis;
-        private DevExpress.XtraGrid.Views.Grid.GridView gvLowis;
         private System.Windows.Forms.Panel panel2;
         private lw2DataSet1 lw2DataSet1;
         private lw2DataSet1TableAdapters.prosedur_getdataGroupDescreteConfigTableAdapter prosedur_getdataGroupDescreteConfigTableAdapter;
@@ -832,6 +866,31 @@
         private System.Windows.Forms.BindingSource prosedurgetdataGroupDescreteConfigBindingSource;
         private System.Windows.Forms.BindingSource prosedurgetdataGroupAnalogConfigBindingSource;
         private lw2DataSet3 lw2DataSet3;
+        private lw2DataSet3TableAdapters.prosedur_getdataGroupAnalogConfigTableAdapter prosedur_getdataGroupAnalogConfigTableAdapter;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.ToolStripButton newToolStripButton1;
+        private System.Windows.Forms.ToolStripButton openToolStripButton1;
+        private System.Windows.Forms.ToolStripButton saveToolStripButton1;
+        private System.Windows.Forms.ToolStripButton printToolStripButton1;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
+        private System.Windows.Forms.ToolStripButton cutToolStripButton1;
+        private System.Windows.Forms.ToolStripButton copyToolStripButton1;
+        private System.Windows.Forms.ToolStripButton pasteToolStripButton1;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator3;
+        private System.Windows.Forms.ToolStripButton helpToolStripButton1;
+        private System.Windows.Forms.ToolStripButton newToolStripButton2;
+        private System.Windows.Forms.ToolStripButton openToolStripButton2;
+        private System.Windows.Forms.ToolStripButton saveToolStripButton2;
+        private System.Windows.Forms.ToolStripButton printToolStripButton2;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
+        private System.Windows.Forms.ToolStripButton cutToolStripButton2;
+        private System.Windows.Forms.ToolStripButton copyToolStripButton2;
+        private System.Windows.Forms.ToolStripButton pasteToolStripButton2;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
+        private System.Windows.Forms.ToolStripButton helpToolStripButton2;
+        private System.Windows.Forms.SplitContainer splitContainer1;
+        private DevExpress.XtraGrid.GridControl gdLowis;
+        private DevExpress.XtraGrid.Views.Grid.GridView gvLowis;
         private DevExpress.XtraGrid.Columns.GridColumn colLWNAME;
         private DevExpress.XtraGrid.Columns.GridColumn colAnalog_Desc;
         private DevExpress.XtraGrid.Columns.GridColumn colActive;
@@ -878,27 +937,6 @@
         private DevExpress.XtraGrid.Columns.GridColumn colCalc_Analog;
         private DevExpress.XtraGrid.Columns.GridColumn colAlarm_Level;
         private DevExpress.XtraGrid.Columns.GridColumn colAlarm_Group;
-        private lw2DataSet3TableAdapters.prosedur_getdataGroupAnalogConfigTableAdapter prosedur_getdataGroupAnalogConfigTableAdapter;
-        private System.Windows.Forms.ToolStrip toolStrip1;
-        private System.Windows.Forms.ToolStripButton newToolStripButton1;
-        private System.Windows.Forms.ToolStripButton openToolStripButton1;
-        private System.Windows.Forms.ToolStripButton saveToolStripButton1;
-        private System.Windows.Forms.ToolStripButton printToolStripButton1;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
-        private System.Windows.Forms.ToolStripButton cutToolStripButton1;
-        private System.Windows.Forms.ToolStripButton copyToolStripButton1;
-        private System.Windows.Forms.ToolStripButton pasteToolStripButton1;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator3;
-        private System.Windows.Forms.ToolStripButton helpToolStripButton1;
-        private System.Windows.Forms.ToolStripButton newToolStripButton2;
-        private System.Windows.Forms.ToolStripButton openToolStripButton2;
-        private System.Windows.Forms.ToolStripButton saveToolStripButton2;
-        private System.Windows.Forms.ToolStripButton printToolStripButton2;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
-        private System.Windows.Forms.ToolStripButton cutToolStripButton2;
-        private System.Windows.Forms.ToolStripButton copyToolStripButton2;
-        private System.Windows.Forms.ToolStripButton pasteToolStripButton2;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
-        private System.Windows.Forms.ToolStripButton helpToolStripButton2;
+        private DevExpress.XtraCharts.ChartControl chartanalog;
     }
 }
