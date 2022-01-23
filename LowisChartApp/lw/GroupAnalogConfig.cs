@@ -13,8 +13,6 @@ using LowisChartApp.model;
 using DevExpress.XtraGrid.Views.Grid;
 using DevExpress.XtraGrid;
 
-//test
-
 namespace LowisChartApp.lw
 {
     public partial class GroupAnalogConfig : DevExpress.XtraEditors.XtraUserControl
